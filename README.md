@@ -1,6 +1,6 @@
 # Medical Consultation AI (HealthLLama)
 
-Welcome to the **Medical Consultation AI (HealthLLama)** project! This project leverages a Large Language Model (LLM) to provide users with a conversational AI that simulates a doctor. Users can describe their symptoms, and the chatbot will offer a series of questions and advice based on their inputs. The app stores conversations and uses the context of previous interactions to help with follow-up questions.
+Welcome to the **Medical Consultation AI (HealthLLama)** project! This project uses a Large Language Model (LLM) to provide users with a conversational AI that simulates a doctor. Users can describe their symptoms, and the chatbot will offer a series of questions and advice based on their inputs. The app stores conversations and uses the context of previous interactions to help with follow-up questions.
 
 ## Features
 
